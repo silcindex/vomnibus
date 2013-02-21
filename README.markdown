@@ -23,9 +23,9 @@ Add it to your Leiningen `project.clj`:
 
     [com.keminglabs/vomnibus "0.3.2"]
 
+and check the instructions for [cljx](https://github.com/lynaghk/cljx) to configure compilation for [ClojureScript](https://github.com/clojure/clojurescript).
+
 and just `:require` or `:use` whatever you need.
-
-
 
 geo.us.states
 -------------
